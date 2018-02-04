@@ -1,3 +1,3 @@
 # MAV
 
-# This repo documents some software segments for future AMAV use.
+This repo documents some software segments for future AMAV use.
